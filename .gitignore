@@ -1,0 +1,6 @@
+.Rhistory
+*.swp
+.~lock*
+~*
+*.tmp
+/obsolete
